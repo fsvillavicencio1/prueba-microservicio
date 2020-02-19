@@ -1,0 +1,16 @@
+INSERT INTO `denuncias` (tipo, ubicacion, descripcion, estado, url) VALUES ('SANITARIO', 'SAMANA', 'BASURA REGADA EN LA ACERA', 'PENDIENTE', 'https://image.flaticon.com/icons/png/128/33/33298.png');
+insert into `denuncias` (tipo, ubicacion, descripcion, estado, url) VALUES ('TRANSITO', '10 DE AGOSTO', 'SEMÁFORO DESCOMPUESTO', 'PENDIENTE', 'https://image.flaticon.com/icons/png/128/60/60831.png');
+insert into `denuncias` (tipo, ubicacion, descripcion, estado, url) VALUES ('ANIMALES', 'EL VALLE', 'PERRO ABANDONADO', 'PENDIENTE', 'https://image.flaticon.com/icons/png/128/1530/1530719.png');
+insert into `denuncias` (tipo, ubicacion, descripcion, estado, url) VALUES ('SANITARIO', 'SAN CAYETANO', 'BASURA REGADA EN LA ACERA', 'PENDIENTE', 'https://image.flaticon.com/icons/png/128/33/33298.png');
+insert into `denuncias` (tipo, ubicacion, descripcion, estado, url) VALUES ('SANITARIO', 'BORJA', 'BASURA REGADA EN LA ACERA', 'PENDIENTE', 'https://image.flaticon.com/icons/png/128/33/33298.png');
+insert into `denuncias` (tipo, ubicacion, descripcion, estado, url) VALUES ('SANITARIO', 'SAUCES', 'BASURA REGADA EN LA ACERA', 'PENDIENTE', 'https://image.flaticon.com/icons/png/128/33/33298.png');
+insert into `denuncias` (tipo, ubicacion, descripcion, estado, url) VALUES ('SANITARIO', 'ARGELIA', 'BASURA REGADA EN LA ACERA', 'PENDIENTE', 'https://image.flaticon.com/icons/png/128/33/33298.png');
+insert into `denuncias` (tipo, ubicacion, descripcion, estado, url) VALUES ('SANITARIO', 'TIERRAS COLORADAS', 'BASURA REGADA EN LA ACERA', 'PENDIENTE', 'https://image.flaticon.com/icons/png/128/33/33298.png');
+insert into `denuncias` (tipo, ubicacion, descripcion, estado, url) VALUES ('SANITARIO', 'CIUDAD VICTORIA', 'BASURA REGADA EN LA ACERA', 'PENDIENTE', 'https://image.flaticon.com/icons/png/128/33/33298.png');
+insert into `denuncias` (tipo, ubicacion, descripcion, estado, url) VALUES ('SANITARIO', 'CARIGAN', 'BASURA REGADA EN LA ACERA', 'PENDIENTE', 'https://image.flaticon.com/icons/png/128/33/33298.png');
+insert into `denuncias` (tipo, ubicacion, descripcion, estado, url) VALUES ('SANITARIO', 'TENERIA', 'BASURA REGADA EN LA ACERA', 'PENDIENTE', 'https://image.flaticon.com/icons/png/128/33/33298.png');
+insert into `denuncias` (tipo, ubicacion, descripcion, estado, url) VALUES ('SANITARIO', 'MOTUPE', 'BASURA REGADA EN LA ACERA', 'PENDIENTE', 'https://image.flaticon.com/icons/png/128/33/33298.png');
+insert into `denuncias` (tipo, ubicacion, descripcion, estado, url) VALUES ('SANITARIO', 'VIA A ZAMORA', 'BASURA REGADA EN LA ACERA', 'PENDIENTE', 'https://image.flaticon.com/icons/png/128/33/33298.png');
+insert into `denuncias` (tipo, ubicacion, descripcion, estado, url) VALUES ('SANITARIO', 'EPOCA', 'BASURA REGADA EN LA ACERA', 'PENDIENTE', 'https://image.flaticon.com/icons/png/128/33/33298.png');
+insert into `denuncias` (tipo, ubicacion, descripcion, estado, url) VALUES ('SANITARIO', 'SAN PEDRO', 'BASURA REGADA EN LA ACERA', 'PENDIENTE', 'https://image.flaticon.com/icons/png/128/33/33298.png');
+insert into `denuncias` (tipo, ubicacion, descripcion, estado, url) VALUES ('SANITARIO', 'PITAS', 'BASURA REGADA EN LA ACERA', 'PENDIENTE', 'https://image.flaticon.com/icons/png/128/33/33298.png');

@@ -1,0 +1,15 @@
+package ec.edu.utpl.sic.gp.microservicio.api;
+
+import ec.edu.utpl.sic.gp.microservicio.dto.Denuncia;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RestController;
+
+
+@RestController
+public class DenunciasApi{
+        @RequestMapping(value="/denuncias", method=RequestMethod.GET)
+        public Denuncia getById(){
+            return new Denuncia(1L, "Higienico", "El Valle", "Basura regada", false);
+        }
+}
